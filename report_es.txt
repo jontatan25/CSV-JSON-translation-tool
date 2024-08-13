@@ -1,0 +1,544 @@
+No keys missing in the translated file.
+Keys missing in the original file:
+  - Capital invertido
+  - Distribución por gestora
+  - Reino unido
+  - Monto costes explícitos
+  - Distribución por uso
+  - Comisión gestión/asesoramiento
+  - América del sur
+  - AGO
+  - Distribución por credit rating
+  - P/G PERIODO
+  - Comprometido (mn)
+  - mes
+  - Total fondos
+  - Residencial
+  - Rentabilidad
+  - Distribución por geografía
+  - Datos renta fija
+  - Calificación inferior a B
+  - Costes implícitos
+  - Rentabilidad YTD
+  - Nombre inmueble
+  - TPVI
+  - Línea evolutiva del patrimonio
+  - Europa desarrollada
+  - Autogestión
+  - Largo Plazo
+  - Delegado
+  - TOTAL LLAMADAS CAPITAL
+  - Credit rating
+  - Rating crédito
+  - 1a Generación
+  - SALIDAS PERIODO
+  - SALIDAS
+  - Top 10 holdings - Peso - Renta fija
+  - OTROS FINANCIEROS
+  - Neto
+  - RENTAS
+  - TIPO INTERÉS MEDIO
+  - ENTRADAS
+  - Agosto
+  - Total delegado
+  - Alpha
+  - Subordinated
+  - Africa
+  - Gasto medio (mes)
+  - Titular
+  - Total Fondos
+  - Distribución por vencimientos
+  - MILLONES DE EUROS
+  - JUN
+  - Calificación A
+  - Consumo
+  - año
+  - Representación personas físicas y jurídicas
+  - Valor neto
+  - Municipal
+  - Información con Look through facilitada por Morning Direct de los activos indicados.
+  - Bankinter Family Office
+  - Detalle titularidad
+  - Renta variable
+  - Implícito
+  - OTROS FINANCIERO
+  - Madrid
+  - Visión de mercado
+  - Importe distribución
+  - Análisis de riesgos
+  - VENCIMIENTO (Mil)
+  - Cartera Titular Conjunta
+  - Distribución por activo
+  - RENDIMIENTOS Y RENTAS PERIODO
+  - Patrimonial
+  - Renta fija - Fondos de inversión y ETFs
+  - Tipo de comisión
+  - Total Multiactivos
+  - RENDIMIENTO
+  - Con un enfoque en combatir la inflación, aún persistente desde el año anterior, las subidas de tipos de interés han sido una constante, lo cual ha repercutido en los mercados de renta fija, incrementando los rendimientos de los bonos y, por ende, ajustando las valoraciones en los mercados de renta variable.
+  - 2a Generación
+  - Custodia
+  - Coste invertido (mn)
+  - Importe comprometido por añadas
+  - Libra
+  - IMPORTE
+  - Valoración dispuesta período
+  - Patrimonio no financiero
+  - Rating B
+  - Bonos
+  - Finanzas
+  - RENDIMIENTO PERÍODO
+  - Recepcion y transmision de ordenes
+  - Total ETFs
+  - Resumen patrimonial global
+  - Gestión discrecional de carteras
+  - Prelación de pagos
+  - Pendiente
+  - Renta fija
+  - Cap.
+  - Cupon rate
+  - VOLATILIDAD
+  - Cartera Titular Individual
+  - Renta variable - Acciones
+  - Rating BB
+  - Sr Non Preferred
+  - Evolución
+  - ABR
+  - Gestión
+  - Socio limitado
+  - Efectivo y equivalentes
+  - Real Estate
+  - Nº de acciones
+  - Costes por tipo de gestión
+  - En el sector inmobiliario, hemos visto una revalorización cautelosa, impulsada por el interés en activos logísticos y residenciales, reflejo de un cambio en las dinámicas de trabajo y consumo post-pandemia.
+  - Div. Yield.
+  - Sr Preferred
+  - Importe por añadas
+  - Market Cap
+  - Oceanía
+  - DIC
+  - Representación de personas físicas y jurídicas
+  - Análisis de costes YTD
+  - Comercial
+  - Distribución por tipo de mandato
+  - Volatilidad
+  - Private Equity
+  - Total costes aprox.
+  - VALORACIÓN INICIAL PERÍODO
+  - Facturación
+  - Entradas
+  - Turismo
+  - Empleados
+  - Australasia
+  - Comisión total
+  - % sobre patrimonio
+  - Cartera Gestionada Bankinter
+  - Inversiones inmobiliarias
+  - Titulizados
+  - Evolución del patrimonio por clases de activos
+  - Total privado
+  - Costes explícitos liquidados
+  - R. Ponderada
+  - RENTABILIDAD
+  - INV. ALTERNATIVAS
+  - Premium moderado
+  - Informe patrimonial global
+  - Distribución
+  - Nº DE ACTIVOS
+  - Crédito
+  - Derivados
+  - Hipotecario
+  - Tasación
+  - (precio medio)
+  - EUROPA
+  - TOTAL DISTRIBUCIONES
+  - Tipo de cartera
+  - Inv. Inmobiliarias
+  - (precio mercado)
+  - Asia
+  - Inmobiliario
+  - DPIx
+  - IMPORTE AMORTIZADO PERIODO
+  - Multiactivos y otros
+  - Otros financieros
+  - Resumen del patrimonio global
+  - Calificación AA
+  - Inversión alternativa
+  - E/S ESTIMADAS 3M
+  - Desembolsado (mn)
+  - Sanidad
+  - TIR media
+  - IMPORTE TOTAL LIQUIDEZ
+  - Superfície
+  - VARIACIÓN VALORACIÓN
+  - Coste invertido
+  - Costes implícitos (€)
+  - Septiembre
+  - Distribución por generación
+  - SEP
+  - Sector 2
+  - Oceania
+  - Cartera Titular conjunta
+  - Valor compra antes de tasación
+  - Distribución Anual
+  - Sin rating
+  - Yield neta actual
+  - Japón
+  - Mantenimiento de cuenta
+  - Activada
+  - Estado
+  - Alquilado
+  - Tipología
+  - RTO
+  - Empresas no cotizadas
+  - Inversiones alternativas
+  - Importe amortizado período
+  - Energia
+  - P/G
+  - Nombre
+  - Otros
+  - Resumen patrimonio global
+  - Ubicación
+  - Compras del período
+  - Sector 1
+  - Pat. financiero
+  - Ebidta
+  - RENTABILIDAD (%)
+  - Aviso legal
+  - Consumo defensivo
+  - Cupón medio
+  - Rating A
+  - OCT
+  - Estructura familiar
+  - RENTABILIDAD PERÍODO
+  - P/G inicio
+  - Total desarrollo
+  - RVPI
+  - P/G periodo
+  - IMPORTE TOTAL DISPONIBLE
+  - Enero
+  - Total costes
+  - Concepto
+  - Precio
+  - VALORACION ACTUAL
+  - Rentabilidad-YTD
+  - Fecha call
+  - Patrimonio financiero
+  - Tipo de financiación
+  - Flujo de caja
+  - OTROS
+  - Rentabilidad/riesgo por mandato
+  - Tensiones geopolíticas
+  - Zona geográfica
+  - América del Norte
+  - RENT. PERIODO
+  - Gastos anuales
+  - Energía
+  - EUR
+  - África
+  - Compras y vendas del período
+  - Entradas de liquidez
+  - Rentabilidad mensual y acumulada
+  - COMPROMETIDO
+  - VALORACIÓN ACTUAL
+  - Desglose generacional
+  - Mirando hacia el futuro, la incertidumbre geopolítica y las negociaciones comerciales continúan siendo áreas de interés, con potencial para influir significativamente en la confianza del mercado y las decisiones de inversión. La capacidad de los inversores para adaptarse a estos cambios, manteniendo una visión equilibrada y a largo plazo, será crucial para navegar los meses venideros.
+  - Calificación AAA
+  - Desde el período
+  - Participaciones
+  - Utilities
+  - Serv. comunicaciones
+  - Resultados Corporativos del cuarto trimestre
+  - Ventas del período
+  - PAGO INTERESES PERÍODO
+  - Exposición a renta fija
+  - RENT. INICIO
+  - Intereses
+  - Total autogestión
+  - Custodio vs costes (medio)
+  - Real state
+  - Multiplicador sector
+  - Dolar
+  - Marzo
+  - Patrimonio actual
+  - HY
+  - Flujo de Caja Anual
+  - TVPI
+  - Junio
+  - Mayo
+  - Datos medios
+  - Vencimientos
+  - Fecha de valoración
+  - Financiero
+  - Vencimiento medio
+  - BENEFICIOS AGREGADOS
+  - Costes
+  - Rating BBB
+  - ETFs
+  - Peso
+  - Valor actual
+  - P/G Latentes
+  - Visión de futuro en la estrategia de inversiones
+  - %
+  - Distribución por entidad
+  - Monetario
+  - Industrial
+  - Bankinter Premium Dinamico B FI
+  - FEB
+  - Tecnologia
+  - Fecha val.
+  - Mensual
+  - Consumo cíclico
+  - Vencimiento 1-3 años
+  - Materiales básicos
+  - Primero, la política monetaria de los principales bancos centrales, especialmente la Reserva Federal de EE. UU. y el Banco Central Europeo, ha seguido siendo un factor determinante.
+  - -
+  - MOIC ventas totales (x)
+  - Nº de participaciones
+  - Política Monetaria de la Reserva Federal
+  - Sr Unsecured
+  - INMOBILIARIO
+  - Vencimiento 5-7 años
+  - Distribución por facturación
+  - Multiactivos y Otros
+  - Rendimiento inmobiliario
+  - Costes explícitos (%)
+  - Entidad
+  - YIELD NETA (%)
+  - Compromiso
+  - Financial Services
+  - Latinoamérica
+  - Cuadro pagos
+  - Industria
+  - Corporativos
+  - Multip
+  - IMPORTE FINANCIACIÓN
+  - Costes explícitos (€)
+  - TIR
+  - Capital desinvertido
+  - Sector
+  - Octubre
+  - Salidas
+  - Serv. financieros
+  - Vencimiento 3-5 años
+  - Precio medio
+  - Otros financiero
+  - Rating AA
+  - JUL
+  - RENTABILIDAD YTD
+  - Fondos y ETFs
+  - Cant. acciones
+  - Importe
+  - Contribución a la rentabilidad
+  - Millones de euros
+  - INVERSIONES
+  - MOIC
+  - Distribución por mandato y entidad
+  - Peso patrimonio por tipo de riesgo
+  - Vehículos invertidos (nº)
+  - Desactivada
+  - Otras
+  - Mandato
+  - Fondos
+  - ENE
+  - EUROS
+  - Distribución de activos
+  - Dato
+  - Febrero
+  - RENTAS PERÍODO
+  - Abril
+  - 1a generación
+  - Rentabilidad periodo
+  - Patrimonio global
+  - Distribución por divisa
+  - Mixtos y otros
+  - Market cap
+  - America del sur
+  - Detalle de la cartera
+  - 3a Generación
+  - Renta fija - Bonos
+  - ENTRADAS PERIODO
+  - Importe desembolsado
+  - RENTA FIJA
+  - Distribución por entidad financiera
+  - Periodo
+  - Promedio de TIR
+  - Distribución global
+  - Inversiones financieras
+  - Plusvalias no realizadas
+  - Valoración disponible período
+  - Noviembre
+  - TIR actual
+  - Calificación BBB
+  - VARIACIÓN PERIODO
+  - Detalle por tipo de activo
+  - Rating AAA
+  - Calificación BB
+  - Costes acordados por mandato
+  - Total
+  - WAULT
+  - Detalle de otros activos
+  - Julio
+  - Distribución por TIR y rating
+  - VALORACIÓN ANTERIOR
+  - Acumulado
+  - Top 10 holdings - Peso - Renta variable
+  - Valor
+  - Gestión discrecional
+  - TIR compra
+  - Coste adquisición
+  - Variación periodo
+  - Patrimonio financiero - Bonos
+  - Enero 2023 - Marzo 2023
+  - Top 10 holdings - Rentabilidad - Renta variable
+  - Inversiones Inmobiliarias
+  - Cantidad acciones
+  - Salidas de liquidez
+  - Índice de contenidos
+  - Distribución global y rentabilidad por clase de activo
+  - RENTA VARIABLE
+  - Geografía
+  - Distribución por tipo de activo
+  - RENTABILIDAD INICIO
+  - Top 10 holdings - Rentabilidad - Renta fija (bonos directos)
+  - Renta
+  - Total Bonos
+  - Dividendos
+  - PATRIMONIO INICIAL
+  - RENTAS PERIODO
+  - TIR esperada
+  - Beta
+  - IMPORTE TOTAL DISPUESTO
+  - Inversiones totales periodo
+  - Norteamérica
+  - Yield neta compra
+  - Distribución por divisas
+  - PATRIMONIO ACTUAL
+  - Inv. alternativas
+  - Desarrollo
+  - Rendimiento global
+  - IMPORTE DESEMBOLSADO
+  - Europa
+  - Distribuciones (mn)
+  - P/G latente
+  - Comprometido
+  - Distribución por tipo de producto
+  - Explícito
+  - Cupones
+  - Tipo de activo
+  - Total Europa
+  - Múltiplos por año
+  - key_example_plural
+  - Otro
+  - Asia emergente
+  - Distribución por titularidad
+  - Valor residual
+  - PENDIENTE DE DESEMBOLSO
+  - Logistico
+  - DPI
+  - Financiación
+  - Distribución de patrimonio financiero
+  - DISTRIBUCIÓN
+  - Empresas
+  - Valor (mill)
+  - Evolución patrimonial y rentabilidad
+  - Valoración online
+  - Desembolsado
+  - Distribución por tipo de riesgo
+  - Rentabilidad anual
+  - Divisa
+  - FACTURACIÓN AGREGADA
+  - Rentas
+  - Yield
+  - Diciembre
+  - Rendimiento y detalle de activos
+  - Bankinter Premium Conservador B FI
+  - El primer trimestre de 2023 ha sido notable por su dinamismo y la adaptación continua de los mercados financieros a un entorno económico global en constante cambio. Entre enero y marzo, hemos observado varias tendencias clave que han influido en la percepción y estrategias de los inversores.
+  - R. Ponderada período
+  - Duración media
+  - Euro
+  - Activo
+  - Rating inferior a B
+  - Salud
+  - Duración
+  - Asesoramiento
+  - Evolución de valoración
+  - Dólar
+  - Tipo
+  - YTD
+  - Sector 3
+  - Distribución por tipo
+  - Visión mercado
+  - Desinversiones totales (nº)
+  - Rating medio
+  - Análisis de patrimonio financiero
+  - Geografia
+  - VENCIMIENTO (Mill)
+  - Reporting global
+  - TVPI MEDIO
+  - Otros activos
+  - En blanco
+  - Retail
+  - Valor de compra
+  - Renta variable - Fondos y ETFs
+  - Norte américa
+  - Inv. financieras
+  - Fecha valoración
+  - Flujos de caja
+  - RENT. YTD
+  - Análisis de tendencias financieras actuales
+  - Coste adquisición (precio medio)
+  - FINANCIACIÓN
+  - Desinversiones totales por periodo
+  - Desinversiones totales
+  - Calificación B
+  - Percentage
+  - Rating
+  - TIR objetivo
+  - Costes por entidad
+  - Entradas y salidas del período
+  - MAR
+  - Pr. compra
+  - Otras inversiones
+  - Proyecciones liquidez
+  - Valoración
+  - Calificación
+  - Japón, Asia desarrollada y Australasia
+  - Total rentabilidad
+  - Software
+  - Distribución por gestión
+  - Tipo de interés medio
+  - Gestora
+  - Valoración (precio mercado)
+  - Manufactura
+  - Desembolso Anual
+  - MAY
+  - Privado
+  - Fecha
+  - Bankinter
+  - LIQUIDEZ
+  - Reparto de dividendos
+  - Importe nominal
+  - Gobierno
+  - Rentabilidad neta
+  - Div. yield.
+  - Educación
+  - Vencimiento
+  - Distribución por sector
+  - RENTABILIDAD PERIODO
+  - Liquidez
+  - Bankinter Premium Moderado B FI
+  - PER
+  - TER
+  - Distribución global y rentabilidad por tipo de activo
+  - NOV
+  - DEUDA
+  - Deuda neta
+  - MONETARIO
+  - America
+  - Superficie
+  - Inv. inmobiliarias
+  - Total asesoramiento
+  - Consumer Cyclical
+  - Éxito
+Total missing in original file: 541
