@@ -6,10 +6,10 @@ def load_json(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
         return json.load(file)
     
-#toma un diccionario potencialmente anidado y lo aplana
+# Toma un diccionario potencialmente anidado y lo aplana
 def flatten_dict(d, parent_key='', sep='--'):
     items = []
-    #Cada subclave se combina con su clave padre usando un separador (por defecto es "--")
+    # Cada subclave se combina con su clave padre usando un separador (por defecto es "--")
     for k, v in d.items():
         new_key = f"{parent_key}{sep}{k}" if parent_key else k
         if isinstance(v, dict):
@@ -27,7 +27,7 @@ def create_translation_dataframe(es_data, en_data, fr_data):
         es_value = es_data.get(key, "")
         fr_value = fr_data.get(key, "")
         
-        #se verifica si algún valor es un diccionario
+        # Se verifica si algún valor es un diccionario
         if isinstance(en_value, dict):
             en_value = flatten_dict(en_value, key)
         else:
@@ -43,7 +43,7 @@ def create_translation_dataframe(es_data, en_data, fr_data):
         else:
             fr_value = {key: fr_value}
         
-        #Se asegura de que todas las subclaves se agreguen correctamente al combined_dict
+        # Se asegura de que todas las subclaves se agreguen correctamente al combined_dict
         for sub_key in set(en_value.keys()).union(es_value.keys()).union(fr_value.keys()):
             combined_dict[sub_key]['Key'] = sub_key
             combined_dict[sub_key]['English'] = en_value.get(sub_key, "")
@@ -55,6 +55,10 @@ def create_translation_dataframe(es_data, en_data, fr_data):
 
 def save_to_excel(df, file_path):
     df.to_excel(file_path, index=False)
+
+def save_json(data, file_path):
+    with open(file_path, 'w', encoding='utf-8') as file:
+        json.dump(data, file, ensure_ascii=False, indent=4)
 
 def main():
     # File paths for the translation files
@@ -75,8 +79,10 @@ def main():
     save_to_excel(df, output_file)
     print(f"Translations saved to {output_file}")
 
+    # Save JSON files
+    save_json(en_data, 'en-converted-JSON.json')
+    save_json(es_data, 'es-converted-JSON.json')
+    save_json(fr_data, 'fr-converted-JSON.json')
+
 if __name__ == "__main__":
     main()
-  save_json(en_data, 'en-converted-JSON.json')
-  save_json(es_data, 'es-converted-JSON.json')
-  save_json(fr_data, 'fr-converted-JSON.json')
